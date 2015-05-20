@@ -11,7 +11,7 @@ exports.config =
   baseUrl: ("http://localhost:9000")
 
   jasmineNodeOpts:
-    isVerbose: false
+    isVerbose: true
     defaultTimeoutInterval: 10000
 
   onPrepare: ->
