@@ -2,6 +2,9 @@
   "name": "protractor-tests",
   "version": "0.0.1",
   "devDependencies": {
+    "astrolabe": "^0.3.6",
+    "coffee-script": "^1.9.2",
+    "jasmine-given": "^2.6.3",
     "protractor": "2.0.0"
   },
   "scripts": {
