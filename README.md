@@ -1,4 +1,6 @@
-How to run the tests:
+# Todo Items E2E
+Solution to run E2E tests against https://github.com/paolocarrasco/todo-items.
+## How to run the tests:
 
 1. Start the Selenium server:
 ./node_modules/.bin/webdriver-manager start
