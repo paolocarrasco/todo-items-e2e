@@ -13,3 +13,6 @@ exports.config =
   jasmineNodeOpts:
     isVerbose: false
     defaultTimeoutInterval: 10000
+
+  onPrepare: ->
+    require('jasmine-given')
